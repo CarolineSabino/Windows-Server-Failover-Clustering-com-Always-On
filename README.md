@@ -4,4 +4,7 @@ Garantir a alta disponibilidade e recuperação rápida de falhas em servidores 
 
 * **Solução:**
 
-O documento descreve a configuração do Windows Server Failover Clustering com Always On Availability Groups, incluindo a criação de um cluster, instalação do SQL Server, ajustes de memória, habilitação de alta disponibilidade, configuração de portas de firewall e quórum, além de testes de failover automático. Esta solução automatiza a recuperação, minimizando o tempo de inatividade e garantindo continuidade do serviço.
+Esta solução automatiza a recuperação de falha, minimizando o tempo de inatividade e garante a continuidade do serviço.
+Através do Windows Server Failover Clustering com Always On Availability Groups, a qual inclui a criação de um cluster, instalação do SQL Server, habilitação de alta disponibilidade e inclusão de quórum.
+
+
